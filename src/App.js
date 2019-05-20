@@ -5,7 +5,7 @@ import './App.css'
 const App = () => (
   <div>
     <img src={logo} />
-    <h1>Webpack React Setup.</h1>
+    <h1>Hello World Mika Baby...</h1>
   </div>
 )
 export default hot(module)(App)
