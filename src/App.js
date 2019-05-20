@@ -4,7 +4,6 @@ import logo from './images/logo.png'
 import './App.css'
 const App = () => (
   <div>
-    <img src={logo} />
     <h1>Hello World Mika Baby...</h1>
   </div>
 )
