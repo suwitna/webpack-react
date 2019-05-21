@@ -40,7 +40,7 @@ module.exports = {
                                 ],
                         },
                         {
-                                test: /\.png$/,
+                                test: /\.jpg$/,
                                 exclude: /(node_modules)/,
                                 use: [
                                         { loader: 'file-loader' },
