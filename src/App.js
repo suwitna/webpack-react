@@ -4,7 +4,7 @@ import mika from './images/mika.jpg'
 import './App.css'
 const App = () => (
   <div>
-    <h1>Hello World Mika Baby...</h1>
+    <h1>Happy Birth Day 3 month :) Mika Baby, 3000</h1>
     <img src={mika}/>
   </div>
 )
